@@ -1,6 +1,11 @@
-# Kesar & Co. — Automated Support Copilot (n8n + Gemini + Google Sheets)
+# Kesar & Co. — Automated Support Copilot (n8n + Gemini/Groq + Google Sheets)
 
 An AI-powered customer support triage, order-verification, and response-drafting workflow built in **n8n** for **Kesar & Co.** (an Indian D2C skincare brand). The copilot ingests incoming customer support emails via webhook, classifies intent and sentiment using Google Gemini, verifies order ownership and policy eligibility against `orders.json`, drafts brand-aligned responses grounded in `faq.md` and `brand_voice.md`, escalates sensitive cases, and logs all activity and support tickets in Google Sheets.
+
+Submission Links & Resources
+- **Google Sheet (Audit Log & Tickets):** [Kesar Suppor Sheet](https://docs.google.com/spreadsheets/d/10zldJwwZsjrz_BZt-JqRcqsSLTMXdG_2SniIAYvTjYI/edit?usp=sharing)
+- **n8n Workflow File:** `workflow/kesar_assignment.json`
+- **Webhook Endpoint:** `(https://somethinggo.app.n8n.cloud/webhook/kesar-support-email)`
 
 ---
 
