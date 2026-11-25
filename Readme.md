@@ -6,6 +6,7 @@ Submission Links & Resources
 - **Google Sheet (Audit Log & Tickets):** [Kesar Suppor Sheet](https://docs.google.com/spreadsheets/d/10zldJwwZsjrz_BZt-JqRcqsSLTMXdG_2SniIAYvTjYI/edit?usp=sharing)
 - **n8n Workflow File:** `workflow/kesar_assignment.json`
 - **Webhook Endpoint:** `(https://somethinggo.app.n8n.cloud/webhook/kesar-support-email)`
+- Video Explaination:** (https://drive.google.com/file/d/15Mmu31c_rfW8aXr3ppl5ZBgxIiaTg2fv/view?usp=drive_link)
 
 ---
 
